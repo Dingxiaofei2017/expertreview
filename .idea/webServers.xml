@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="88418f63-66f1-4cc0-86b5-d10c9b4ebd12" name="expertreview" url="http://115.157.201.153">
+        <fileTransfer host="115.157.201.153" port="22" rootFolder="/home/dave" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
